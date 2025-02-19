@@ -1,6 +1,6 @@
 Paleidimas:
 1. Pajungiamas terminalas ir suvedamos šios komandinės eilutes: 
-rm -rf build
+rm  build
 mkdir build
 cd build
 cmake ..
